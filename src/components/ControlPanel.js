@@ -1,5 +1,5 @@
 import React from 'react';
-import displayIcon from 'C:/reactproject/kanban-board/src/assests/icons_FEtask/Display.svg'; // Assuming you're using an image as an icon
+import displayIcon from '../assests/icons_FEtask/Display.svg';
 
 const ControlPanel = ({ onGroupChange, onSortChange, onDisplayChange }) => {
   return (
